@@ -1,0 +1,7 @@
+{
+  "gold_cases": 200,
+  "mean_top1_similarity": 0.4148,
+  "median_top1_similarity": 0.3902,
+  "top1_similarity_ge_0.20": 1.0,
+  "top1_similarity_ge_0.30": 0.84
+}

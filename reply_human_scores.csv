@@ -1,0 +1,6 @@
+case_id,reply_quality,evidence_grounding,hallucination_policy
+AMZ-005,3,0,PASS
+AMZ-011,2,1,PASS
+AMZ-013,1,0,PASS
+AMZ-019,4,2,PASS
+AMZ-021,3,0,PASS

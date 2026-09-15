@@ -1,0 +1,17 @@
+case_id,tweet_id,customer_message,gold_intent,gold_escalate,policy_decision,policy_reason,agreement
+AMZ-010,74845,@AmazonHelp Already reported. Please re-ship my order. I'll not place a fresh order.,order_issue,AUTO-HANDLE,ESCALATE,repeated/unresolved wording,False
+AMZ-013,30549,@AmazonHelp Many sellers are affected by this!  We can't get our money disbursed from Amazon seller accounts.  It's been going on for a week !,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-029,49893,@AmazonHelp That is the problem! I cant access on my account because still on hold! I dont know why! Have a chat for customer service?,account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-048,2958601,@AmazonHelp This has caused me to have a panic attack. I am so unwell at the moment and now have no present for my brother! I will not be buying from Amazon again after this has been resolved and I’ve spoken to head office! This is the second delivery in ONE WEEK!,delivery_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-113,18899,@AmazonHelp Yes.. we got after 1 week from estimated date and still waiting for installation,other,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-130,122719,"@AmazonHelp These are my details of order-order #[PHONE],date of placement of order 10 Nov, contacted Amazon assistance on 3 occasions,once you check you will get [URL] story is in my tweet",order_issue,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-131,89084,@AmazonHelp Did all of that... &amp; product has now gone... this is approximately the 3rd time since last week that this has happened... perhaps worthwhile to flag to your IT department?,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-132,103129,"@AmazonHelp respected sir, u know its a once in week sale. nd it very hard to place order,
+nd it sucks when it get cancelled. 
+i was failed to order that on 30th nov.",order_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-136,2867143,@AmazonHelp They have updated to delayed. I can’t count how many times this has happened recently. It’s making the cost of prime less and less appealing.,prime_membership,AUTO-HANDLE,ESCALATE,repeated/unresolved wording,False
+AMZ-151,18718,@AmazonHelp I contacted customer support by chat&amp;was told to wait for 72 hrs while investigating.:/ This has happened to others for over a week though,other,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-174,185801,@AmazonHelp Through my order number you can get my details. Why it needs to be shared again if it's already available in your database.,order_issue,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-179,69800,@AmazonHelp I am expecting a call from Amazon with date on which product will get replaced! If not I will create a video on how Amazon fools customer in India with fake product,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-188,2884115,@AmazonHelp I have forgot my Amazon account login password. Plz share your mail you. I'll share my details through mail.,account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-191,136961,"@AmazonHelp Thursday 16 and yesterday, I can't access de account it's blocked.. [URL]",account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False

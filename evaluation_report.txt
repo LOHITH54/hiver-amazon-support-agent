@@ -1,0 +1,25 @@
+Hiver AmazonHelp Evaluation
+===========================
+
+Verified gold cases used: 200
+NOTE: Results are provisional until the Golden Set has independent human verification.
+
+             system   n  accuracy  macro_f1
+   trivial_majority 200     0.190  0.039916
+simple_tfidf_logreg 200     0.915  0.913064
+
+Simple baseline classification report:
+                  precision    recall  f1-score   support
+
+  account_access       0.57      0.92      0.71        13
+  delivery_issue       0.97      0.94      0.96        34
+     order_issue       1.00      1.00      1.00        30
+           other       0.83      0.76      0.79        38
+ payment_billing       1.00      0.80      0.89        20
+prime_membership       1.00      1.00      1.00        20
+   product_issue       1.00      1.00      1.00        20
+   refund_return       0.96      0.96      0.96        25
+
+        accuracy                           0.92       200
+       macro avg       0.92      0.92      0.91       200
+    weighted avg       0.93      0.92      0.92       200

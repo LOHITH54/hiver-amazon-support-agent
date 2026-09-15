@@ -1,0 +1,229 @@
+case_id,tweet_id,customer_message,gold_intent,gold_escalate,policy_decision,policy_reason,agreement
+AMZ-001,138995,@AmazonHelp We have tried to pay since and your niw saying out of stock but the email said payment was needed by today,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-002,73462,@AmazonHelp No idea. My app tells me it was delivered.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-003,19435,"@AmazonHelp Arriving Today: Your package with Dell KM117 Wireless Keyboard Mouse is out for delivery.Amt: Rs.1,399. [URL]",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-004,138083,"@AmazonHelp I did visit @117013  @125519 service center for help, 
+They denied for service, and claimed that the replace/ repair of this product will be handled by @115850 @115821 @AmazonHelp",product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-005,2893128,"@AmazonHelp Hi @AmazonHelp, I submitted a copy of my bank statement for verification that was downloaded off online banking, it was declined and when I questioned it you have claimed it is a screenshot when it was a PDF from my internet banking.",account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-006,49169,@AmazonHelp I tried now with Firefox and the buy button is still grey and when I try Instant access it says an internal error has occurred in our system,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-007,2821603,@AmazonHelp Thanks for ur reply..i m referring movie XXX : Return of Xander Cage &amp; TV series Walking dead.,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-008,5293,@AmazonHelp Solicitud (foto del estado de cuenta),other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-009,2972811,@AmazonHelp I have two orders that are delayed right now.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-010,74845,@AmazonHelp Already reported. Please re-ship my order. I'll not place a fresh order.,order_issue,AUTO-HANDLE,ESCALATE,repeated/unresolved wording,False
+AMZ-011,2906568,"@AmazonHelp Yes Canada post always return back the packages to the post office to pick them while I left them a note to leave it on front of the door. So now I have to go to the post office and drag my 49"" TV and my ps4 home walking!",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-012,14020,@AmazonHelp We have 2 work 2gether to accommodate UR new service.  I simply need 2 know how exactly U instruct AF customers re disposition of the large green insulated carriers.  Not a difficult question--need the written instrux.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-013,30549,@AmazonHelp Many sellers are affected by this!  We can't get our money disbursed from Amazon seller accounts.  It's been going on for a week !,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-014,2837048,@AmazonHelp So then I will return it and purchase it again for the new price,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-015,2969415,@AmazonHelp  [URL],other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-016,12527,"@AmazonHelp I have replied to it many and still have not received any response, sending you a legal notification for closing this fraud business",other,ESCALATE,ESCALATE,higher-risk/legal/fraud wording,True
+AMZ-017,2930671,@AmazonHelp I ordered in US..,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-018,2835684,@AmazonHelp I must say something that #Amazon has gone #worst yesterday ur agent told me someone will come to picup the product today before 10 its 1:15 in india still the product lies with me pls #help #customerservice #complain,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-019,197957,@AmazonHelp @115851 submitting details for the fifth time. Such poor customer service. Initiate refund asap,refund_return,ESCALATE,ESCALATE,repeated/unresolved wording,True
+AMZ-020,197934,"@AmazonHelp I wrote back, but no updates. I was told I will get an update but i didn't. @115851 kindly help. it's been 10 days. Initiate refund",refund_return,ESCALATE,ESCALATE,repeated/unresolved wording,True
+AMZ-021,73633,"@AmazonHelp Haha! Link requires me to log in to do anything :-P
+Already sent an email of sorts, but thank you for trying to help. I appreciate it!",account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-022,25253,@AmazonHelp The delivery deadline was yesterday,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-023,2858136,@AmazonHelp Very unhappy prime customer ATM!,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-024,197788,@AmazonHelp @119535 Why not?? U r depriving so many potential customers @132994 by not offering @25605 EMI card...wrong decision,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-025,130817,@AmazonHelp Not getting any help for the refund. There are 5 items pending for the refund. How can I solve it?,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-026,138907,@AmazonHelp Currently still in Preston ... have retweeted  @147309 whose order it is,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-027,98590,@AmazonHelp U r making kidding with me.... M regularly doing wat u saying....pls let me know about refund...as u guys misusing name of @15863 by selling fake peoduct,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-028,83344,@AmazonHelp I guess you should ask @115817 for a refund since they are going to miss their deadline for  2nd day air,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-029,49893,@AmazonHelp That is the problem! I cant access on my account because still on hold! I dont know why! Have a chat for customer service?,account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-030,268677,@AmazonHelp It’s just saying I need a subscription but I’m already a prime member,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-031,2954425,"@AmazonHelp There is a trend, it’s the same carrier both times now. I believe it’s your in house delivery, amzl us",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-032,52155,@AmazonHelp This was after a full day of the status on Amazon saying the package was on track for an 8pm delivery and not flipping to a status indicating that it was not going to arrive by 8pm until well after 5pm my time.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-033,2905048,@AmazonHelp Then receive a cancellation email. I've been in tears over it last night and again today as everyone I speak to say they are unable to help me and I can no longer have my order. I am so upset and frustrated and feel like no one cares and that I'm not an important enough customer.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-034,96711,"@AmazonHelp But I don't want a refund, I want a replacement. Is that not possible? I don't see that option. The TV doesn't seem to be available right now, and even if it was it wouldn't be the same price.",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-035,141011,"@AmazonHelp But i dont appreciate and you dont understand.. kindly think twice and then answer my query.. if a product has no warranty if purchase made via global brand store of @115850 @115821 why we should even spend a penny where the cost of the product is more than INR10,000",product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-036,2946859,@AmazonHelp Amazon logistics was in the card apparently this was my safe area I requested yet I didn’t even mention one I spoken to someone they didn’t seam to interested said I get a 5 pound gift card but didn’t say when,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-037,69269,"@AmazonHelp no, it's the main US version, and I'm accessing prime video on my Roku",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-038,121118,@AmazonHelp I guess i did get prime but couldnt remember. Thanks 😜,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-039,36545,"@AmazonHelp This isn't now about installation. 
+It's now about faulty product",product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-040,225008,"@AmazonHelp The refund amount not yet received 
+
+Near one month 
+The amount is 72000
+
+Will u pay the interest 5percent? [URL]",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-041,199979,@AmazonHelp you have my condition for the return in the first tweet itself. Fulfill it then we will talk,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-042,2966541,@AmazonHelp Thanks for checking!,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-043,109929,@AmazonHelp Team may i know the reason. Y u guys were cancelled my order,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-044,17903,"@AmazonHelp Got it just now about 4 hours after it was supposedly delivered. As I said, unpredictable and non-trustworthy delivery process",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-045,2902488,@AmazonHelp I'd love to but when I try and log in with that link you sent it asks for the 2-step verification code which I no longer receive. Hence the problem.,account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-046,16778,"@AmazonHelp Response in mail is just asking to wait n m doing that since last 1 month..it's more than 15 days on Twitter n u doing the same
+No solution",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-047,86129,"@AmazonHelp Nov. 30. But it didn't ship until Nov. 29 afternoon and we are in a rural, underserved area. UPS now shows Dec. 1 for delivery.",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-048,2958601,@AmazonHelp This has caused me to have a panic attack. I am so unwell at the moment and now have no present for my brother! I will not be buying from Amazon again after this has been resolved and I’ve spoken to head office! This is the second delivery in ONE WEEK!,delivery_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-049,2894562,"@AmazonHelp È l'ennesima volta che una spedizione che _voi_ dichiarate essere con consegna garantita, affidata a SDA, non arriva nei tempi previsti e non si sa quando arriverà. E tutto quello che fare è mandare una letterina di scuse? Voglio un mese gratis di prime per ogni volta che toppate",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-050,2906635,@AmazonHelp Filing a refund dispute because the vendor did not contact me for 2+ days.,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-051,2887281,"@AmazonHelp Hi, my password is okay i just keep getting a message saying ‘something went wrong’ it’s been like it for about an hour",account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-052,2972008,@AmazonHelp and nothing was solved. I don’t even think he understood what was going on.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-053,5128,"@AmazonHelp AMZL US Tracking ID TBA566517950000 it says delivered to mail room, I checked the mail and the front offce, the driver listed 1 package, in that one package was my XLR cables...I'm missing the controller.",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-054,179204,@AmazonHelp I used the link in your tweet - lead me to a log in page - I CANT LOG IN - is that loud enough?,account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-055,126805,"@AmazonHelp não, só não apareceu a página de login para fazer o pagamento",account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-056,2726733,@AmazonHelp No need to do anything please refund my amount as soon as possible otherwise I approach Consumer Court against you.,refund_return,ESCALATE,ESCALATE,higher-risk/legal/fraud wording,True
+AMZ-057,95320,"@AmazonHelp Là il ne s'agit ""que"" d'une parure de lit mais bon ça fait 5j que j'attends alors que je suis membre Prime.",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-058,248124,@AmazonHelp Thanks!got an email confirming that payment recieved,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-059,12517,@AmazonHelp Rather than wasting time here can you please check with your team &amp; confirm whether they have responded. Use basic communication skills Sir,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-060,249977,@AmazonHelp I have paid but still it is pending,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-061,2906572,"@AmazonHelp The item is a gift so didn't really want to open it all up tbh.. And no I didn't select a ""safe place"" the garden is unsheltered, is it common to leave parcels in the open with no knowledge to what is inside?",product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-062,176497,@AmazonHelp Comme expliqué précédemment le vendeur s'était engagé à prendre en charge les frais de retour. L'adresse de retour était en France. Je ne comprends pas pourquoi vous insistez. C'est pourtant simple: le vendeur n'a pas respecté son engagement.,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-063,35844,@AmazonHelp It did not say on the tracking who was carrying it.  I did get contacted from Amazon and now they promised first thing in the morning.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-064,73449,"@AmazonHelp I’m guessing it has moved to Thursday, which is brilliant because it’s a day I can imagine they’ll deliver when I’m busy as that’s their favourite time to knock 😊😊😊",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-065,39585,@AmazonHelp It seems to be items I order from an amazon warehouse. I’m not sure if my specific location makes a difference.. we are in Baltimore County.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-066,164831,"@AmazonHelp Hi, no I only have the 1 account. Happy to DM or email, just wasn’t very easy to find any information on the website itself without going through a million steps",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-067,91470,"@AmazonHelp Pls sort ASAP, i need to place order",order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-068,13868,@AmazonHelp i have already done it. your reps dont even check any back data they just rape the customers.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-069,274891,@AmazonHelp dear Amazon send me invoice please Wtf wrong with you,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-070,2834240,"@AmazonHelp re, bah justement rien n'est indiqué. Il semblerait que vous ne soyez pas encore en mesure de me donner un délai... pour autant, je commande un produit Prime dans l'objectif de l'avoir rapidement.",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-071,145822,@AmazonHelp still not shipped my order. When will i get any update?,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-072,205022,@AmazonHelp Associates changed my email &amp; passwords. They can login fine but I can't! My regular account logs in but shows no programs or influencer.,account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-073,2906562,@AmazonHelp Still not working. Any ideas?,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-074,192321,@AmazonHelp U please cancel my order,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-075,2883326,@AmazonHelp Yes but when I entered my phone number per instructions it also rejected my password,account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-076,111956,@AmazonHelp I'm not the account holder attached to it so apparently no one can help me.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-077,25944,@AmazonHelp But why I was not shown the option of next day delivery whereas it is currently shown right now.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-078,272862,@AmazonHelp So what's the point of prime when it won't be here until the 12th. @Walmart got my business.,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-079,2936619,"@AmazonHelp Nope, bt hv faced it many tyms, payment through visa card, is there any issue wid it?",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-080,2878609,@AmazonHelp Also amazon.de account is locked.. Hope these orders have not been deleted.,account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-081,2952179,@AmazonHelp I was told they will attempt to deliver tomorrow. This has happen to me at least five times when you ship via your carrier. Sometimes I won't get the packages until 4-5 days later if I am lucky.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-082,2762415,@AmazonHelp i am continuously getting mails from Amazon about replacement while i am asking about refund.. Don't know where is the gap,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-083,2880451,@AmazonHelp Have already placed the order. Hope I will get cash back as mentioned in the same T&amp;C [URL],order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-084,9125,@AmazonHelp I'm UK based. Are the contact details the same?,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-085,6958,"@AmazonHelp Will do in morning. By the way, I’ve complained about this same issue 3 times and twice before directly to carrier.",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-086,152098,@AmazonHelp Two days have passed and we are nearing at the half century mark (50 days) FK Amazon’s incompetence. 50 days and NO REFUND..... GUTTER SERVICE @115851,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-087,99942,@AmazonHelp Your call centre staff were really unhelpful. One even hung up on me. I just have to wait for my item but I’m not happy at all.,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-088,2944224,@AmazonHelp But u have sent me half the order!!! So if that was the case i wouldn't of revieved anything,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-089,13882,"@AmazonHelp so basically you are stealing money from small customers. @115851 count your money, its growing. THIEVES.",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-090,2940265,@AmazonHelp It’s not my recent order. It’s a pending order from Nov 5th on a promotional coupon. I’ve mentioned the days in my tweet. Appreciate if you can read it. TIA,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-091,75891,"@AmazonHelp All my past orders were being delivered at same address, still couldn't understand the problem.",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-092,152162,@AmazonHelp Amazon deliveries via couriers are always successful. I just don't know why you give @126705 a contract. Their service isn't up-to-date enough for Amazon generation. My 'next day' prime will now be redelivered on 28th! (first slot available).,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-093,2826522,@AmazonHelp Nothing stating comes with EU plug. How do I get an invoice for the camera?,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-094,71823,@AmazonHelp Make sure it gets delivered today. It has been in my city since yesterday early morning. I’m sure it can be done unless you would rather chose to make a fool out of your customers,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-095,2962627,@AmazonHelp To wait 24 hours to see if the carrier would confirm where the parcel was. Had an email this morning which is insulting: [URL],delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-096,16837,@AmazonHelp No updates even after 2 weeks....poor n shame on Amazon...#JeffBezos [URL],other,ESCALATE,ESCALATE,repeated/unresolved wording,True
+AMZ-097,178641,"@AmazonHelp No,except i would like it moved from the seller to my address,as was promised,this is happening all the time Yodel are rubbish !!",product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-098,2954479,@AmazonHelp C'est effectivement la 2eme fois que ca arrive,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-099,2966409,@AmazonHelp Original date was Mon Nov 27. There’s only one message from the 27th saying there was a delay and there’s no tracking updates on my packages,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-100,2894545,"@AmazonHelp Ok, guessing this is being resolved @ the backend by @119625 - Definitely not what I was hoping for given I had already watched 80% of this one. 
+
+P.s. : Any solution, other than planning a trip to the country where I might be able to access this? ✌️😐✌️😐✌️😐✌️ [URL]",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-101,2954371,"@AmazonHelp Sure have. Smh and ya'll ain't even re shipping it ya'll are horrible.
+
+Hey big head. @115937",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-102,26932,@AmazonHelp Can’t seem to find any option to play podcasts via Echo. An I missing something?,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-103,2911644,"@AmazonHelp Por lo visto esta en buen estado, obvio con tierra por el patio. Fue vendido por Amazon, de hecho ""transportado por Amazon"", ya que fue con etiqueta de Prime. Esta mi reporte en ya hecho en Contacto a su servicio a cliente, realice llamada y acabo de enviar un correo.",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-104,69620,@AmazonHelp Just googled Amazon Prime. Look what the first three words are [URL],prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-105,2958528,@amazonhelp i was asked to wait until you try to charge me again — doesn’t help,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-106,80667,@AmazonHelp J'ai passé une commande le 20/11 pour livraison le 28/11 entre 10 et midi (amazon prime + supplément créneau horaire + supplément emballage cadeau car il s'agissait d'un événement important) Le 27 je reçois un mail disant que le colis a été expédié. jusque la tout va bien 1/1,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-107,73447,"@AmazonHelp Okay, so package has just been delivered even though I’m sure it says you stop delivery at 8!! 😩😩😩",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-108,2882693,@AmazonHelp You had cheated me and played with my trust you can't believe how much loss I had to bear bcoz if it next time I will never place the order by paying online,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-109,162089,"@AmazonHelp Done that now. It google chrome I'm using. No change, no access to books.",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-110,229756,"@AmazonHelp Hey, I'm a Prime customer so... the fastest!",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-111,2850652,@AmazonHelp There is NO LINK TO EVEN FILE. item defective and just want a new one,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-112,22537,@AmazonHelp Undeliverable. Which makes no sense because my first package was easily delivered at 2pm but this one wasn't at 6pm?,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-113,18899,@AmazonHelp Yes.. we got after 1 week from estimated date and still waiting for installation,other,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-114,64007,@AmazonHelp Thanks for your kind support. Item reached the destination,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-115,152101,@AmazonHelp I have replied more than 8 hours back with no reply... you think I have a lot of time to poke you guys if I already had my resolution... more than 40 days and no refund... CRAP service @115851,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-116,86213,@AmazonHelp Cannot contact as my access blocks site.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-117,134823,@AmazonHelp Cancel my order and try again. Which does the same thing. So I'm debating if I should cancel it and just pick it up tomorrow from Target which at this point seems easier.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-118,2887966,@AmazonHelp Am I able to order things from US amazon?,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-119,2886542,@AmazonHelp Filled up. Now you guys are manipulating the reasons for not delivering the product. Shameful Act by @115850 .  #WorstCustomerService @118702,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-120,75844,@AmazonHelp Now it doesn't matter of previous orders but make sure this will deliver toay itself. Today is last delivery date. IT IS URGENT,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-121,163465,@AmazonHelp I says ordered with the line close to the shipped mark :( everything else ordered with it has already shipped,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-122,2831683,"@AmazonHelp Music Unlimited, why do you charge extra for it?",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-123,29537,@AmazonHelp Had notification of 3rd item being refunded.  Nothing for remaining 2 items,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-124,138220,@AmazonHelp It’s on any item. I presume it’s Black Friday chaos.,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-125,2966419,@AmazonHelp It happens all the time by your fulfillment team here in Austin. It’s become so commonplace that many of us just go to the neighboring address when a package is missing. Calls to your customer service department have been fruitless. Please fix.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-126,2950709,@AmazonHelp You sure have. Both of my packages have been rescheduled. How is 2 day shipping Thursday to Thursday? Shouldn't even be Thursday to Wed.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-127,2971949,@AmazonHelp Can I sign out of all devices at once?,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-128,250678,@AmazonHelp Reklamieren möchte ich aber nicht. Ich möchte einfach nur den Artikel den ich bestellt habe. Dafür nutze ich die Amazon Prime Dienstleistung,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-129,124017,"@AmazonHelp If I would have wanted to return I could have done on my own
+I know the steps
+
+I tweeted to show you people the pathetic service of Amazon
+
+Sending a form and asking to elaborate is totally a fraud, you should have simply said that return it and take refund
+
+#fraudsters",refund_return,ESCALATE,ESCALATE,higher-risk/legal/fraud wording,True
+AMZ-130,122719,"@AmazonHelp These are my details of order-order #[PHONE],date of placement of order 10 Nov, contacted Amazon assistance on 3 occasions,once you check you will get [URL] story is in my tweet",order_issue,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-131,89084,@AmazonHelp Did all of that... &amp; product has now gone... this is approximately the 3rd time since last week that this has happened... perhaps worthwhile to flag to your IT department?,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-132,103129,"@AmazonHelp respected sir, u know its a once in week sale. nd it very hard to place order,
+nd it sucks when it get cancelled. 
+i was failed to order that on 30th nov.",order_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-133,2677370,@AmazonHelp How about a card explaining a collection pt instead of leaving stuff outside? In cities doorstep items are at risk &amp; a sign you’re not home.,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-134,80632,@AmazonHelp Setting up a product. Not finding what I need by trawling through endless help pages that really aren't very helpful.,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-135,2939190,"@AmazonHelp It was the launch of OnePlus 5T. The 1st launch on 21st November. The order # 
+[PHONE]",order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-136,2867143,@AmazonHelp They have updated to delayed. I can’t count how many times this has happened recently. It’s making the cost of prime less and less appealing.,prime_membership,AUTO-HANDLE,ESCALATE,repeated/unresolved wording,False
+AMZ-137,78715,@AmazonHelp Not yet. Still waiting for a rescheduled delivery date.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-138,144003,@AmazonHelp i think you have not seen my old tweets....i have done this earlier also get mail from ur sociol escalation team ....but nothing happened.....they advised me to do use other payment method rather than solving my issue with cod,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-139,133870,@AmazonHelp What is the status of my order? No words to describe your services #amazon #pathetic after sales.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-140,108263,"@AmazonHelp What about other prime members like me
+Though I'm not having echo devices.",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-141,11617,@AmazonHelp Lol that's not my real name. But basically yeah they won't just leave it at my front door. Tomorrow's the final attempt.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-142,2980945,@AmazonHelp But this time @115850 is low balling on #OnePlus5T exchange offer. For #onplus5 I used to get extra ₹2k off on exchange,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-143,18909,@AmazonHelp I would like to know what action taken from your side regarding my issue apart from regret emails??,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-144,118805,@AmazonHelp It was a gift so I didn't order it myself. Is there another way? Registration date?,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-145,2715162,"@AmazonHelp The message that followed said that I would be refunded in the next 3-5 buisness days, so I will get a refund?",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-146,2958609,"@AmazonHelp No, USPS says you’re late in giving it to them which reflects that on their tracking number. Your customer service can’t give me a reason either.",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-147,75866,@AmazonHelp It's my office address and it closes by 6-6:15 pm. For the package i have to wait till 8 pm ?? And by the way it guy told me he is coming by 2 pm but still he is not der and not evening picking my call.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-148,2877780,"@AmazonHelp No message received. Also, my account is email/mobile both verified.",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-149,245834,"@AmazonHelp I sent them a while ago, my NUS card has now been extended and i was going to try again.nothing in my spam folder. 29th April and 2 June",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-150,140905,"@AmazonHelp Still Havnt gt my refund The bank are asking fr settlement copy fr the same. customer care cannot be reached as they say no orders match @115850 @115821 take an apporiate action
+cheats u are",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-151,18718,@AmazonHelp I contacted customer support by chat&amp;was told to wait for 72 hrs while investigating.:/ This has happened to others for over a week though,other,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-152,2967729,"@AmazonHelp Nope. I’m currently listening on the iPhone app without difficulty. 
+
+I recently connected a second echo dot, would that interfere with the streaming at all?",other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-153,95372,@AmazonHelp I already got to chat with one of your reps. Is there a way for me to get a refund without having to ship the LENS CAPS back to the US? Thanks,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-154,2958610,"@AmazonHelp It’s every time you use USPS as a carrier. However, it isn’t USPS that’s causing the delay. Instead, it’s a delay for you to get it to their HUB in Georgia.",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-155,75934,"@AmazonHelp Ce qui a de plus désolant, c'est surtout que ca arrive systématiquement avec Colis Privé. Arrêtez de traiter avec eux, ca ne peut pas continuer là...",delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-156,156710,"@AmazonHelp Update: I got the dispatch email, checked my order, confirmed its arriving monday 😊 [URL]",order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-157,2983113,@AmazonHelp Yes but I have @79582 installed &amp; I don't see why it's not available in India. It doesn't make sense. I won't buy new lights just 4 u.,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-158,2826416,@AmazonHelp I’ve already sent an email to customer service will wait to see what they say. But I doubt I will reorder with Amazon. Prime membership doesn’t seem to have that much of a benefit when using Amazon Logistics.,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-159,2961710,@AmazonHelp Done that three times and always say next day - I have the email transcripts of ‘guaranteed delivery’ to not turn up again,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-160,2758622,"@AmazonHelp So when am gonna get my money back, or my stuff, my stuff would be better",refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-161,16798,@AmazonHelp Now with #fraud u guyz have started #lying as well not even a single call has come from your team #poorcustomerservice #fraud [URL],other,ESCALATE,ESCALATE,higher-risk/legal/fraud wording,True
+AMZ-162,150602,"@AmazonHelp Punkt 1 OK  habe selbst früher im Bereich Logistik Gearbeitet Kann ich Nachvollziehen Wenn Ware "" aufgeteilt wird auf verschieden Lager""
+Punkt 2 &gt; Mir selbst würde es wenig ausmachen ABER die Kids die Enttäuscht rum sitzen nachdem ich Gesagt habe KOMMT heute DA Prime Versand ;)",prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-163,162006,@AmazonHelp Yes no problem. I turn the stick on and it looks like the attached! ALL put of proportion. Calibrating doesn't work. [URL],product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-164,16847,@AmazonHelp No updates no mailed issue...pure ignorance....,other,ESCALATE,ESCALATE,repeated/unresolved wording,True
+AMZ-165,191583,@AmazonHelp Confirmation email was 4th Wednesday 4th (today). The order now says Thursday 5th.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-166,2903451,@AmazonHelp Yes I have. I have also called and spoken to rude customer service people. It has not shipped. They could only tell me it will ship soon. Only when I ordered it promised me it would be here TODAY.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-167,2758146,"@AmazonHelp Please credit the amount with interest as I paid amount to you on 15 and yet not received my money. You need to give me interest of this amount for 15 days, what about my problem which I faced to chase you.",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-168,169640,@AmazonHelp I ordered Durban Monopoly last Friday and was told it would be here the Wednesday just passed. When I went online they said today by 20:00. Now; 21:58 And nothing? 7 days? I'd rather go to a physical shop. It was supposed to be a surprise for my husband. No more I'm so bummed,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-169,6960,@AmazonHelp Or you can provide me with a direct dial number and I’ll call it now,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-170,38132,"@AmazonHelp That link is for US, I'm a UK customer. It said when I placed the order that it would be arriving on the release date.",order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-171,160438,@AmazonHelp Plz provide me the current progress of my order.,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-172,128778,@AmazonHelp As I have already told u @115850 I have shared my all details in all links provided by @115850 so plz don't try to make fool. Plz return my money..,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-173,77506,@AmazonHelp Yes I am online chat with Preeti from @115821. She is very unhelpful and refuses to help other than getting the parcels delivered tomorrow which is not good enough as I am off today.,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-174,185801,@AmazonHelp Through my order number you can get my details. Why it needs to be shared again if it's already available in your database.,order_issue,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-175,56829,@AmazonHelp why not help . us here? Your seller support is kind of dumb robots and not expecting any help or resolution from them! So better ans here.,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-176,18722,@AmazonHelp Till now I have noticed it in a couple of episodes of mike and molly and also in 'the middle',other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-177,2903438,"@AmazonHelp I do not know how to contact you by phone. I reset the password, then went to log in told me that I need to check my email.",account_access,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-178,83472,@AmazonHelp Here is what I see. I have also received an email saying that it is out of stock and if I want to cancel the order [URL],order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-179,69800,@AmazonHelp I am expecting a call from Amazon with date on which product will get replaced! If not I will create a video on how Amazon fools customer in India with fake product,product_issue,ESCALATE,AUTO-HANDLE,routine request,False
+AMZ-180,4950,@AmazonHelp No. Como puedo contactarlo,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-181,37620,@AmazonHelp I filled this out yesterday right after you sent this and still no reply and no another package is late. I don't get it.,delivery_issue,ESCALATE,ESCALATE,repeated/unresolved wording,True
+AMZ-182,2934496,@AmazonHelp there is no way that's getting here by Fri. its already Thur and it hasn't been shipped. maybe i should just cancel the #AmazonPrime,order_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-183,16466,@AmazonHelp The link didnt go to app instead asked me to buy movies :-) I am looking for those on Amazon prime. Search function said did not exist,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-184,2841759,@AmazonHelp J ai encore perdu mon temps sur Amazon. De pire en pire le prime,prime_membership,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-185,136120,@AmazonHelp Yes been in contact with cust services. Not sure but it seems that it is DPD deliveries. Deliveries seem to be a mess at the moment when usually dependable. I can wait for most things but an item that I needed yesterday didn't turn up which has caused a problem.,product_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-186,200003,"@AmazonHelp Says it was sold by apex_media and they only plan on refunding the rental charge, not the $100 they charged us for.",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-187,2724983,"@AmazonHelp Le problème est là justement, la commande a été expédiée mais le transporteur ne l'a pas encore prise en charge !",payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-188,2884115,@AmazonHelp I have forgot my Amazon account login password. Plz share your mail you. I'll share my details through mail.,account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-189,197937,@AmazonHelp @115851 was told a returnless refund wil b issued. So gave phone to someone in need. Now a pickup is scheduled. Tell me now what to do.,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-190,56937,@AmazonHelp Is there any way i can get a refund ? Because i really meed this on release .,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-191,136961,"@AmazonHelp Thursday 16 and yesterday, I can't access de account it's blocked.. [URL]",account_access,AUTO-HANDLE,ESCALATE,account/order investigation may require private access,False
+AMZ-192,16476,@AmazonHelp @AmazonHelp The link you sent me this page opens and in its settings I can't find where to change country to India. [URL],other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-193,78748,@AmazonHelp All I hear is that I should get it my dec 5th but this is a Xmas gift that I am shipping out of country it needs to be mailed by dec 1st,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-194,16422,@AmazonHelp Intelcom Express. I couldn't contact them last night since I got home after their operating hours. Sent them an email this morning,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-195,2874045,@AmazonHelp I called customer support. They are going to try and issue a refund. The driver was a third party that they contracted out. It wasn’t through one of the traditional carriers.,refund_return,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-196,351097,@AmazonHelp more than time asked by amazon and still asking 3 more days and I have continously missed the deals for products. Will compensation be paid [URL],payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-197,19125,@AmazonHelp I already call your linked courier service they all not ready for home pick up and some courier service cha rges is very high,delivery_issue,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-198,2724560,@AmazonHelp Yes i've checked and no one has used my card at all as we all have our own.,payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-199,2970498,@AmazonHelp As usual @AmazonHelp quickly solved my issue but the question remains why is this always an issue? The packages can be left unattened at my door at 8:45p but not at 4:00p. Makes no sense but truly appreciate the quick response.  Guess the system is a work in progress...,other,AUTO-HANDLE,AUTO-HANDLE,routine request,True
+AMZ-200,2956985,@AmazonHelp I mean on this screen. It only lets me pick one card. The blue one is the gift card that I have but it doesn't have enough to cover the entire purchase so I have to use the one that's green as well but it only lets me pick between one... [URL],payment_billing,AUTO-HANDLE,AUTO-HANDLE,routine request,True
